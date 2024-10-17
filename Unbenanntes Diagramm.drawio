@@ -109,8 +109,8 @@
         <mxCell id="2lJx8aIQyMY3eyVQErQr-51" value="Bestellungsliste" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="940" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2lJx8aIQyMY3eyVQErQr-53" value="geht an..." style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="385" y="945" width="80" height="50" as="geometry" />
+        <mxCell id="2lJx8aIQyMY3eyVQErQr-53" value="Angestellte nimmt eins an" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="912.5" width="195" height="115" as="geometry" />
         </mxCell>
         <mxCell id="2lJx8aIQyMY3eyVQErQr-54" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
