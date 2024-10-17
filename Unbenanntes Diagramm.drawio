@@ -105,9 +105,6 @@
             <mxPoint x="560" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2lJx8aIQyMY3eyVQErQr-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2lJx8aIQyMY3eyVQErQr-43" target="2lJx8aIQyMY3eyVQErQr-51">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="2lJx8aIQyMY3eyVQErQr-43" value="Getränk" style="shape=rectangle;whiteSpace=wrap;html=1;direction=south;align=center;" vertex="1" parent="1">
           <mxGeometry x="340" y="780" width="80" height="40" as="geometry" />
         </mxCell>
