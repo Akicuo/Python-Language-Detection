@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0" version="24.7.17">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="866" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1245" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,13 +14,13 @@
           <mxGeometry x="770" y="780" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2lJx8aIQyMY3eyVQErQr-19" value="Cocktail" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="590" width="60" height="40" as="geometry" />
+          <mxGeometry x="290" y="690" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2lJx8aIQyMY3eyVQErQr-21" value="Long drink" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="590" width="60" height="50" as="geometry" />
+          <mxGeometry x="350" y="680" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2lJx8aIQyMY3eyVQErQr-22" value="Ice-Tea" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="590" width="60" height="50" as="geometry" />
+          <mxGeometry x="410" y="700" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2lJx8aIQyMY3eyVQErQr-26" value="geht an..." style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="775" width="80" height="50" as="geometry" />
@@ -105,6 +105,9 @@
             <mxPoint x="560" y="820" as="sourcePoint" />
             <mxPoint x="580" y="820" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2lJx8aIQyMY3eyVQErQr-51" value="Bestellungsliste" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="940" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
